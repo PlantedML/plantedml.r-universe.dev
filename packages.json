@@ -1,0 +1,10 @@
+[
+  {
+    "package": "randomPlantedForest",
+    "url": "https://github.com/PlantedML/randomPlantedForest"
+  },
+  {
+    "package": "glex",
+    "url": "https://github.com/PlantedML/glex"
+  }
+]
